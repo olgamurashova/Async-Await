@@ -1,4 +1,4 @@
-## Asynch/Await
+## Async/Await
 
 ### General information:
 
