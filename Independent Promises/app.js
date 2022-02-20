@@ -1,4 +1,4 @@
-let {cookBeans, steamBroccoli, cookRice, bakeChicken} = require('./library.js');
+let {cookBeans, steamBroccoli, cookRice, bakeChicken} = require('./app.js');
 
 // Write your code below:
 async function serveDinner() {
