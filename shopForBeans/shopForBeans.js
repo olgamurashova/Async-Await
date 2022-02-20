@@ -1,4 +1,4 @@
-onst shopForBeans = () => {
+const shopForBeans = () => {
   return new Promise((resolve, reject) => {
 	const beanTypes = ['kidney', 'fava', 'pinto', 'black', 'garbanzo'];
   setTimeout(()=>{
